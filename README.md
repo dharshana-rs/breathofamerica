@@ -20,7 +20,7 @@ This project investigates how air pollution—specifically levels of PM2.5 and O
   - Ozone
 - Key Columns: `State Code`, `County Code`, `Site Num`, `Parameter Name`, `Arithmetic Mean`
 
-## 🔄 Data Integration
+## Data Integration
 
 1. **Convert fixed-width BRFSS ASCII data** to CSV using column specifications from the CDC-provided layout and codebook.
 2. **Decode categorical variables** using SAS `FORMAT23.sas` mappings.
