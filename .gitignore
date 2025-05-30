@@ -1,2 +1,5 @@
 .DS_Store
 Source/Notebooks/.ipynb_checkpoints/DataExtraction-checkpoint.ipynb
+Data/2023/LLCP2023.ASC
+Output/brfss_2023.csv
+Output/decoded_brfss_data.csv
