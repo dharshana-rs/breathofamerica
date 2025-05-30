@@ -39,4 +39,6 @@ This project investigates how air pollution—specifically levels of PM2.5 and O
 - Jupyter Notebook environment 
 
 ## Team Members
-- 
+- Sachin Murthy
+- Heba Jaber
+- Dharshana Somasunderam
